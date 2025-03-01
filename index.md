@@ -20,7 +20,7 @@
   
 <div id="divID">
 <form action="" method="post">
-  <table style="font-family: 'Arial'; font-size: 16px; color: 391baa;border-collapse: collapse; border: none;">
+  <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:hidden;">
     <tr>
        <td>Navn:</td>
        <td><input type="text" name="name" /></td>
