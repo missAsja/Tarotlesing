@@ -21,6 +21,7 @@
   </style>
 
 <!-- TABELL -->
+<!--        -->
 <div id="divID">
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:none;">
@@ -30,20 +31,20 @@
      <tr style="border: none;">
          <td style="border: none;">Navn:</td>
          <td style="border: none;"><input type="text" name="navn" /></td>
-         </tr>
-     <tr style="border: none;></tr>
+    </tr>
      <tr style="border: none;">
           <td style="border: none;">E-post:</td>
           <td style="border: none;"><input type="text" name="epost" /></td>
      </tr>
-     <tr style="border: none;></tr>
      <tr style="border: none;">
          <td style="border: none;">&nbsp;</td>
          <td style="border: none;"><input style="font-family: 'Arial'; font-size: 16px;" type="submit" value="Book" /></td>
-      </tr>
+    </tr>
   </table>
 </form>
 </div>
+<!--  -->
+<!--  -->
 
 <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
