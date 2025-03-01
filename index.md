@@ -4,6 +4,9 @@
     Book tarotlesing n&aring;r det passer deg, ved &aring; fylle inn feltene under:<br><br>
  </p>
 <style>
+   table td {
+    border: none !important;
+  }
       input[type=submit] {
         background-color: #62529c;
         border: none;
