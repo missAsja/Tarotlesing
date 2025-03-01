@@ -3,6 +3,8 @@
     Mitt navn er Pia og jeg holder til p&aring;  St.Hanshaugen i Oslo. Der er jeg  	&aring;  treffe etter avtale. <br>
     Book tarotlesing n&aring;r det passer deg, ved &aring; fylle inn feltene under:<br><br>
  </p>
+
+ <!-- FORMATER BOOKING-KNAPP -->
 <style>
       input[type=submit] {
         background-color: #62529c;
@@ -17,42 +19,26 @@
   }
       }
   </style>
-  
+
+<!-- TABELL -->
 <div id="divID">
 <form action="" method="post">
-  <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:hidden;">
+  <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:none;">
+ <th style=";border: none;"></th>
     <tr style="border: none;">
-       <td >Navn:</td>
-       <td><input type="text" name="name" /></td>
+       <td style="border: none;">Navn:</td>
+       <td style="border: none;"><input type="text" name="name" /></td>
     </tr>
-   <tr></tr>
-    <tr>
-      <td>E-post:</td> 
-      <td><input type="text" name="email" /></td>
+    <tr style="border: none;">
+       <td style="border: none;">E-post:</td>
+       <td style="border: none;"><input type="text" name="name" /></td>
     </tr>
-   <tr></tr>
-    <tr><td><br></td></tr><tr></tr>
-    <tr>
-      <td>&nbsp;</td>
-      <td><input style="font-family: 'Arial'; font-size: 16px;" type="submit" value="Book" /></td>
+    <tr style="border: none;">
+      <td style="border: none;">&nbsp;</td>
+      <td style="border: none;"><input style="font-family: 'Arial'; font-size: 16px;" type="submit" value="Book" /></td>
     </tr>
   </table>
 </form>
-</div>
-
-<!-- TESTER uten tabell -->
- label { 
-  display: block; 
-  float: left; 
-  width: 200px; 
-} 
-<div class='container'>
-  <label for="dummy1">title for dummy1:</label>
-  <input id="dummy1" name="dummy1" value="dummy1"><br>
-  <label for="dummy2">longer title for dummy2:</label>
-  <input id="dummy2" name="dummy2" value="dummy2"><br>
-  <label for="dummy3">even longer title for dummy3:</label>
-  <input id="dummy3" name="dummy3" value="dummy3"><br>
 </div>
 
 
@@ -60,3 +46,7 @@
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
 Du kan endre p&aring; bookingen inntil 24 timer f&oslash;r avtalt tid, eller avbestille ved &aring; sende en e-post til: xx <br>
 </p>
+
+
+   <tr style="border: none;></tr>
+    <tr style="border: none;><td style="border: none;><br></td style="border: none;></tr><tr style="border: none;></tr>
