@@ -39,8 +39,12 @@
   </table>
 </form>
 </div>
+
 <label>
   Short label <input type="text" name="dummy1" />
+</label>
+<label>
+  Long label <input type="text" name="Test" />
 </label>
 
 <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
