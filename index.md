@@ -12,6 +12,9 @@
         text-decoration: none;
         margin: 4px 2px;
         cursor: pointer;
+         .footer {
+    display: none;
+  }
       }
   </style>
     
@@ -39,9 +42,3 @@
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
 Du kan endre p&aring; bookingen inntil 24 timer f&oslash;r avtalt tid, eller avbestille ved &aring; sende en e-post til: xx <br>
 </p>
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
