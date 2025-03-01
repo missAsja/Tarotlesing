@@ -25,7 +25,7 @@
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:none;">
     <colgroup>
-       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 12%;">
     </colgroup>
     <tr style="border: none;">
        <td style="border: none;">Navn:</td>
@@ -36,6 +36,7 @@
        <td style="border: none;">E-post:</td>
        <td style="border: none;"><input type="text" name="epost" /></td>
     </tr>
+    <tr style="border: none;></tr>
     <tr style="border: none;">
       <td style="border: none;">&nbsp;</td>
       <td style="border: none;"><input style="font-family: 'Arial'; font-size: 16px;" type="submit" value="Book" /></td>
@@ -43,7 +44,6 @@
   </table>
 </form>
 </div>
-
 
 <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
