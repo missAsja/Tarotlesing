@@ -41,20 +41,11 @@
 </div>
 
 <!-- TESTER uten tabell -->
-<label>
-  Short label <input type="text" name="dummy1" />
-</label><br>
-<label>
-  Long label <input type="text" name="Test" />
-</label>
-
-
-<label for="dummy1">title for dummy1:</label>
-<input id="dummy1" name="dummy1" value="dummy1">
-
-<label for="dummy2">longer title for dummy2:</label>
-<input id="dummy2" name="dummy2" value="dummy2">
-
+ label { 
+  display: block; 
+  float: left; 
+  width: 200px; 
+} 
 <div class='container'>
   <label for="dummy1">title for dummy1:</label>
   <input id="dummy1" name="dummy1" value="dummy1"><br>
