@@ -3,7 +3,7 @@
     Mitt navn er Pia og jeg holder til p&aring;  St.Hanshaugen i Oslo. Der er jeg  	&aring;  treffe etter avtale. <br>
     Book tarotlesing n&aring;r det passer deg, ved &aring; fylle inn feltene under:<br><br>
  </p>
-
+<style>
       input[type=submit] {
         background-color: #62529c;
         border: none;
@@ -13,7 +13,7 @@
         margin: 4px 2px;
         cursor: pointer;
       }
-    </style>
+  </style>
     
 <div id="divID">
 <form action="" method="post">
