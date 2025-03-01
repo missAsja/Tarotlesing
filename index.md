@@ -48,7 +48,3 @@
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
 Du kan endre p&aring; bookingen inntil 24 timer f&oslash;r avtalt tid, eller avbestille ved &aring; sende en e-post til: xx <br>
 </p>
-
-
-   <tr style="border: none;></tr>
-    <tr style="border: none;><td style="border: none;><br></td style="border: none;></tr><tr style="border: none;></tr>
