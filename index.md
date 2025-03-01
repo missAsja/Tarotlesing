@@ -21,7 +21,6 @@
 <div id="divID">
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:hidden;">
-    <th style="width:70%"></th>
     <tr style="border: none;">
        <td >Navn:</td>
        <td><input type="text" name="name" /></td>
@@ -40,6 +39,7 @@
   </table>
 </form>
 </div>
+
 <!-- TESTER uten tabell -->
 <label>
   Short label <input type="text" name="dummy1" />
@@ -47,6 +47,23 @@
 <label>
   Long label <input type="text" name="Test" />
 </label>
+
+
+<label for="dummy1">title for dummy1:</label>
+<input id="dummy1" name="dummy1" value="dummy1">
+
+<label for="dummy2">longer title for dummy2:</label>
+<input id="dummy2" name="dummy2" value="dummy2">
+
+<div class='container'>
+  <label for="dummy1">title for dummy1:</label>
+  <input id="dummy1" name="dummy1" value="dummy1">
+  <label for="dummy2">longer title for dummy2:</label>
+  <input id="dummy2" name="dummy2" value="dummy2">
+  <label for="dummy3">even longer title for dummy3:</label>
+  <input id="dummy3" name="dummy3" value="dummy3">
+</div>
+
 
 <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
