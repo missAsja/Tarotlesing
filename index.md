@@ -1,8 +1,8 @@
 <font color="391baa"> <h3>Velkommen til tarotlesing!</h3></font>
-    <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
-Mitt navn er Pia og jeg holder til p&aring;  St.Hanshaugen i Oslo. Der er jeg  	&aring;  treffe etter avtale. <br>
-Book tarotlesing n&aring;r det passer deg, ved &aring; fylle inn feltene under:<br><br>
-    </p>
+ <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
+    Mitt navn er Pia og jeg holder til p&aring;  St.Hanshaugen i Oslo. Der er jeg  	&aring;  treffe etter avtale. <br>
+    Book tarotlesing n&aring;r det passer deg, ved &aring; fylle inn feltene under:<br><br>
+ </p>
 
  <style>
       input[type=submit] {
@@ -15,13 +15,26 @@ Book tarotlesing n&aring;r det passer deg, ved &aring; fylle inn feltene under:<
         cursor: pointer;
       }
     </style>
-
-
- <form>
-  <label for="navn">Navn:   </label> <input type="text" id="navn" name="navn"><br>
-  <label for="epost">E-post:</label> <input type="text" id="epost" name="epost"><br>
-  <input type="submit" value="Book">
-</form> 
+    
+<div id="divID">
+<form action="" method="post">
+  <table style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
+    <tr>
+       <td>Navn:</td>
+       <td><input type="text" name="name" /></td>
+    </tr>
+    <tr>
+      <td>E-post:</td> 
+      <td><input type="text" name="email" /></td>
+    </tr>
+    <tr><td><br></td></tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td><input style="font-family: 'Arial'; font-size: 16px;" type="submit" value="Book" /></td>
+    </tr>
+  </table>
+</form>
+</div>
 
 <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
