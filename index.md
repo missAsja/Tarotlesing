@@ -17,7 +17,7 @@
   }
       }
   </style>
-    
+  
 <div id="divID">
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa;border-collapse: collapse; border: none;">
@@ -25,10 +25,12 @@
        <td>Navn:</td>
        <td><input type="text" name="name" /></td>
     </tr>
+   <tr></tr>
     <tr>
       <td>E-post:</td> 
       <td><input type="text" name="email" /></td>
     </tr>
+   <tr></tr>
     <tr><td><br></td></tr>
     <tr>
       <td>&nbsp;</td>
