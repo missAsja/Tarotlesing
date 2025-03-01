@@ -57,11 +57,11 @@
 
 <div class='container'>
   <label for="dummy1">title for dummy1:</label>
-  <input id="dummy1" name="dummy1" value="dummy1">
+  <input id="dummy1" name="dummy1" value="dummy1"><br>
   <label for="dummy2">longer title for dummy2:</label>
-  <input id="dummy2" name="dummy2" value="dummy2">
+  <input id="dummy2" name="dummy2" value="dummy2"><br>
   <label for="dummy3">even longer title for dummy3:</label>
-  <input id="dummy3" name="dummy3" value="dummy3">
+  <input id="dummy3" name="dummy3" value="dummy3"><br>
 </div>
 
 
