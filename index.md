@@ -39,6 +39,9 @@
   </table>
 </form>
 </div>
+<label>
+  Short label <input type="text" name="dummy1" />
+</label>
 
 <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
