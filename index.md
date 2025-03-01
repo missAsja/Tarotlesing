@@ -31,7 +31,7 @@
       <td><input type="text" name="email" /></td>
     </tr>
    <tr></tr>
-    <tr><td><br></td></tr>
+    <tr><td><br></td></tr><tr></tr>
     <tr>
       <td>&nbsp;</td>
       <td><input style="font-family: 'Arial'; font-size: 16px;" type="submit" value="Book" /></td>
