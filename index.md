@@ -25,10 +25,12 @@
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:none;">
  <th style=";border: none;"></th>
+ <tr style="border: none;></tr>
     <tr style="border: none;">
        <td style="border: none;">Navn:</td>
        <td style="border: none;"><input type="text" name="name" /></td>
     </tr>
+    <tr style="border: none;></tr>
     <tr style="border: none;">
        <td style="border: none;">E-post:</td>
        <td style="border: none;"><input type="text" name="name" /></td>
