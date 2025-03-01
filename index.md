@@ -1,6 +1,3 @@
-<!DOCTYPE form>
-
-
 <font color="391baa"> <h3>Velkommen til tarotlesing!</h3></font>
     <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
 Mitt navn er Pia og jeg holder til p&aring;  St.Hanshaugen i Oslo. Der er jeg  	&aring;  treffe etter avtale. <br>
