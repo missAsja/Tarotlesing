@@ -19,7 +19,6 @@ Book tarotlesing n&aring;r det passer deg, ved &aring; fylle inn feltene under:<
 <div id="divID">
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
-    
     <tr>
        <td>Navn:</td>
        <td><input type="text" name="name" /></td>
@@ -33,7 +32,6 @@ Book tarotlesing n&aring;r det passer deg, ved &aring; fylle inn feltene under:<
       <td>&nbsp;</td>
       <td><input style="font-family: 'Arial'; font-size: 16px;" type="submit" value="Book" /></td>
     </tr>
-    
   </table>
 </form>
 </div>
