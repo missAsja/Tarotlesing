@@ -22,7 +22,8 @@
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:hidden;">
     <tr style="border: none;">
-       <td>Navn:</td>
+     <th style="width:70%"></th>
+       <td >Navn:</td>
        <td><input type="text" name="name" /></td>
     </tr>
    <tr></tr>
@@ -40,6 +41,7 @@
 </form>
 </div>
 
+## TESTING
 <label>
   Short label <input type="text" name="dummy1" />
 </label><br>
