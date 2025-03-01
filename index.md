@@ -32,6 +32,7 @@
          <td style="border: none;">Navn:</td>
          <td style="border: none;"><input type="text" name="navn" /></td>
     </tr>
+     <tr style="border: none;"></tr>
      <tr style="border: none;">
           <td style="border: none;">E-post:</td>
           <td style="border: none;"><input type="text" name="epost" /></td>
