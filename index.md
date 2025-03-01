@@ -40,8 +40,7 @@
   </table>
 </form>
 </div>
-
-## TESTING
+<!-- TESTER uten tabell -->
 <label>
   Short label <input type="text" name="dummy1" />
 </label><br>
