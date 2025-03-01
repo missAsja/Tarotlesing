@@ -21,8 +21,8 @@
 <div id="divID">
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:hidden;">
+    <th style="width:70%"></th>
     <tr style="border: none;">
-     <th style="width:70%"></th>
        <td >Navn:</td>
        <td><input type="text" name="name" /></td>
     </tr>
