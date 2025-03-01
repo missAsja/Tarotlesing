@@ -42,7 +42,7 @@
 
 <label>
   Short label <input type="text" name="dummy1" />
-</label>
+</label><br>
 <label>
   Long label <input type="text" name="Test" />
 </label>
