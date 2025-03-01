@@ -24,16 +24,17 @@
 <div id="divID">
 <form action="" method="post">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:none;">
- <th style=";border: none;width:15%"></th>
- <tr style="border: none;></tr>
+    <colgroup>
+       <col span="1" style="width: 15%;">
+    </colgroup>
     <tr style="border: none;">
        <td style="border: none;">Navn:</td>
-       <td style="border: none;"><input type="text" name="name" /></td>
+       <td style="border: none;"><input type="text" name="navn" /></td>
     </tr>
     <tr style="border: none;></tr>
     <tr style="border: none;">
        <td style="border: none;">E-post:</td>
-       <td style="border: none;"><input type="text" name="name" /></td>
+       <td style="border: none;"><input type="text" name="epost" /></td>
     </tr>
     <tr style="border: none;">
       <td style="border: none;">&nbsp;</td>
@@ -48,3 +49,4 @@
 Etter fullf&oslash;rt bestilling mottar du en bekreftelse p&aring; din booking.<br>
 Du kan endre p&aring; bookingen inntil 24 timer f&oslash;r avtalt tid, eller avbestille ved &aring; sende en e-post til: xx <br>
 </p>
+
