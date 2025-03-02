@@ -23,7 +23,7 @@
 <!-- TABELL -->
 <!--        -->
 <div id="divID">
-<form action="" method="post">
+<form action="http://formspree.io/asja_0092@hotmail.com">
   <table style="font-family: 'Arial'; font-size: 16px; color: 391baa; border:none;">
     <colgroup>
        <col span="1" style="width: 12%;">
@@ -46,6 +46,8 @@
 </form>
 </div>
 <!--  -->
+
+<form action="" method="post">
 <!--  -->
 
 <p style="font-family: 'Arial'; font-size: 16px; color: 391baa;">
